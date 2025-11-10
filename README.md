@@ -1,6 +1,6 @@
 ## I'm currently...
 
-- 🎓 Pursuing a PhD degree in DGP at University of Toronto. Previously at ShanghaiTech, UC Berkeley and UC San Diego. 
+- 🎓 Pursuing a PhD degree in DGP at University of Toronto, advised by Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/). Previously at ShanghaiTech, UC Berkeley and UC San Diego. 
 - 🌱 Engaged in exploring the fields of Computer Graphics and Generative 3D.
 - 📷 A photography and videography enthusiast.
 - 🎈 An avid participant in programming contests, with a background in OI and ACM contests.
